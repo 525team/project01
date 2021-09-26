@@ -262,3 +262,4 @@ zope.event==4.5.0
 zope.interface @ file:///C:/ci/zope.interface_1616357322857/work
 
 numpy~=1.21.2
+torch~=1.9.1
